@@ -1,16 +1,26 @@
-## Hi there 👋
+ Hi there , I'm Dhanyashree A!  
 
-<!--
-**DHANYASHREEA/DHANYASHREEA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd-year Computer Science Student  
+💻 Learning **C & Python** | Practicing **DSA**  
+🚀 Aspiring Google STEP Intern 2026  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 What I’m currently working on  
+- Solving Data Structures & Algorithms in C  
+- Practicing Python for problem solving  
+- Building small projects (BMI Calculator, Traffic Signal System)  
+
+
+## 🔹 Skills  
+- **Languages:** C, Python  
+- **Concepts:** DSA, OOP  
+- **Tools:** GitHub, VS Code  
+
+
+## 🔹 Projects  
+- [BMI Calculator (Python)](link-to-repo)  
+- [Traffic Signal with Fourth Blue Light (C)](link-to-repo)  
+
+** Fun fact: I’m 18, 5'8" tall and love coding!!  
+
+
